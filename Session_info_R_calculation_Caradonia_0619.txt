@@ -1,0 +1,44 @@
+R version 3.4.0 (2017-04-21)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 7 x64 (build 7601) Service Pack 1
+
+Matrix products: default
+
+locale:
+[1] LC_COLLATE=English_United Kingdom.1252  LC_CTYPE=English_United Kingdom.1252   
+[3] LC_MONETARY=English_United Kingdom.1252 LC_NUMERIC=C                           
+[5] LC_TIME=English_United Kingdom.1252    
+
+attached base packages:
+ [1] grid      parallel  stats4    stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] plyr_1.8.4                 UpSetR_1.3.3               VennDiagram_1.6.17         futile.logger_1.4.3       
+ [5] PMCMR_4.1                  ape_4.1                    vegan_2.4-3                lattice_0.20-35           
+ [9] permute_0.9-4              ggplot2_2.2.1              DESeq2_1.16.1              SummarizedExperiment_1.6.3
+[13] DelayedArray_0.2.7         matrixStats_0.52.2         Biobase_2.36.2             GenomicRanges_1.28.3      
+[17] GenomeInfoDb_1.12.2        IRanges_2.10.2             S4Vectors_0.14.3           BiocGenerics_0.22.0       
+[21] phyloseq_1.20.0           
+
+loaded via a namespace (and not attached):
+ [1] bit64_0.9-7             jsonlite_1.5            splines_3.4.0           foreach_1.4.3          
+ [5] Formula_1.2-1           latticeExtra_0.6-28     blob_1.1.0              GenomeInfoDbData_0.99.0
+ [9] RSQLite_2.0             pillar_1.3.1            backports_1.1.0         digest_0.6.12          
+[13] RColorBrewer_1.1-2      XVector_0.16.0          checkmate_1.8.2         colorspace_1.3-2       
+[17] htmltools_0.3.6         Matrix_1.2-10           XML_3.98-1.9            genefilter_1.58.1      
+[21] zlibbioc_1.22.0         xtable_1.8-2            scales_0.4.1            BiocParallel_1.10.1    
+[25] htmlTable_1.9           tibble_1.4.2            annotate_1.54.0         mgcv_1.8-17            
+[29] nnet_7.3-12             lazyeval_0.2.0          survival_2.41-3         magrittr_1.5           
+[33] crayon_1.3.4            memoise_1.1.0           nlme_3.1-131            MASS_7.3-47            
+[37] foreign_0.8-69          tools_3.4.0             data.table_1.10.4       stringr_1.2.0          
+[41] locfit_1.5-9.1          munsell_0.4.3           cluster_2.0.6           lambda.r_1.1.9         
+[45] AnnotationDbi_1.38.1    Biostrings_2.44.1       ade4_1.7-6              compiler_3.4.0         
+[49] rlang_0.3.0.1           rhdf5_2.20.0            RCurl_1.95-4.8          iterators_1.0.8        
+[53] biomformat_1.4.0        htmlwidgets_0.8         igraph_1.0.1            labeling_0.3           
+[57] bitops_1.0-6            base64enc_0.1-3         gtable_0.2.0            codetools_0.2-15       
+[61] multtest_2.32.0         DBI_0.7                 reshape2_1.4.2          gridExtra_2.2.1        
+[65] knitr_1.16              bit_1.1-12              Hmisc_4.0-3             futile.options_1.0.0   
+[69] stringi_1.1.5           Rcpp_1.0.0              geneplotter_1.54.0      rpart_4.1-11           
+[73] acepack_1.4.1       
+
+#Note: Tax4fun installation may require different specifications
